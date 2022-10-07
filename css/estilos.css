@@ -11,7 +11,7 @@ body {
 
 div.carousel {
   width: 90%;
-  max-width: 30%;
+  max-width: 80%;
   background-color: rgb(248, 210, 141);
   position: fixed;
   top: 50%;
@@ -36,7 +36,7 @@ div.grande img {
 
 div.carousel ul.puntos {
   width: 100%;
-  padding: 10px;
+  height: 30px;
   display: flex;
   flex-flow: row nowrap;
   justify-content: center;
@@ -45,8 +45,8 @@ div.carousel ul.puntos {
 }
 
 ul.puntos li.punto {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background-color: white;
   margin: 5px;
   border-radius: 10px;
