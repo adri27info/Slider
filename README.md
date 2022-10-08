@@ -1,6 +1,6 @@
-# CarouselMejorado
+# Slider
 
-This is a js project based in scrolling images from right to left through an image carousel.
+This is a js project based on scrolling images from right to left through an image slider.
 
 ![Image text](img/app-preview.png)
 
@@ -12,7 +12,7 @@ This is a js project based in scrolling images from right to left through an ima
 
 ## Description
 
-This is a js project based in scrolling images from right to left through an image carousel. The displacement of images is done through the css property, transform - translateX()
+This is a js project based in scrolling images from right to left through an image slider. The displacement of images is done through the css property, transform - translateX()
 
 ## Technologies
 
